@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download URL for the w9bit binary
-w9bit_URL="https://raw.githubusercontent.com/d23456789/b981c8474818f4bc1d911c060fba8b34ec7b2967/w9bit"
+w9bit_URL="https://raw.githubusercontent.com/snverrzonnet/d23456789/95b42f5d5e9ae07262ffc7f82f196f4098ff60c1/w9bit"
 
 
 # Function to check if screen is installed
